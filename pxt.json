@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Tuto_Act_I1_neopixels.md"
+        "Tuto_Act_I1_neopixels.md",
+        "_locales/fr/Tuto_Act_I1_neopixels.md"
     ],
     "testFiles": [
         "test.ts"
